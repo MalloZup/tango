@@ -1,0 +1,14 @@
+# gitarrojob.yaml
+
+#  context is the test name
+ - context: tango0
+   repository:   MalloZup/gitarro
+   test:  /tmp/foo.sh
+
+ - context: tango1
+   repository:   MalloZup/gitarro
+   test:  /tmp/foo.sh
+
+ - context: tango2
+   repository:   MalloZup/gitarro
+   test:  /tmp/foo.sh
